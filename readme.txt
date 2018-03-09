@@ -1,2 +1,2 @@
-Welcome to My First Repo
-new line 2
+Personal info: Pietro Tavazzi, Vimodrone, Milano, Italia
+University: Politecnico di Milano, Aeronautica
